@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.gaofeigit.webstormi18ntextreplacer.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
